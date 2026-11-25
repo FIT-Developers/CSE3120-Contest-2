@@ -44,6 +44,21 @@ The final game will use original branding and visual assets.
 - Class demonstration
 
 
+## Proposed File Structure
+
+| File | Purpose |
+|---|---|
+| `main.asm` | Program entry point and primary game loop |
+| `game.asm` | Player mechanics and game logic |
+| `levels.asm` | Level layouts and progression |
+| `game.inc` | Shared constants and procedure declarations |
+| `renderer.asm` | Visual rendering and user interface |
+| `title_animation.asm` | Introduction and title animations |
+| `build.bat` | Compilation and linking script |
+| `README.md` | Project documentation |
+
+The file structure may change throughout development.
+
 ## Game Architecture
 
 The backend will maintain the current game state independently of the renderer.
