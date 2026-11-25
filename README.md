@@ -40,3 +40,16 @@ Each iteration of the game loop will:
 7. Wait before beginning the next iteration.
 
 The renderer will display backend game data without independently calculating gameplay mechanics.
+
+## Development Roadmap
+
+### Phase 1 — Core Mechanics
+
+- [ ] Establish compilation environment
+- [ ] Initialize game state
+- [ ] Implement player movement
+- [ ] Implement jumping
+- [ ] Implement gravity
+- [ ] Implement ground collision
+- [ ] Implement temporary debug rendering
+- [ ] Establish the main game loop
