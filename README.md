@@ -94,3 +94,14 @@ These features may be implemented if time permits after the core game is functio
 | Esc | Exit game |
 
 Controls are subject to change.
+
+## Development Guidelines
+
+To comply with the Contest 2 grading requirements:
+
+- Each commit should contain no more than 20 changed lines.
+- Commit messages should clearly describe the changes made.
+- Code should compile successfully before each commit.
+- Procedures and non-obvious logic should be documented.
+- Backend and frontend changes should remain modular where possible.
+- Shared variables and procedure interfaces should be coordinated between developers.
