@@ -25,6 +25,25 @@ The final game will use original branding and visual assets.
 - Game state management
 - Backend testing
 
+### Michael — Frontend & Presentation
+
+- Game rendering
+- Title screen
+- Character and environment visuals
+- Animations
+- User interface and HUD
+- World map presentation, if implemented
+- Overall visual design
+
+### Shared Responsibilities
+
+- Integration of game logic and rendering
+- Compilation and build scripts
+- Final gameplay testing
+- Documentation
+- Class demonstration
+
+
 ## Game Architecture
 
 The backend will maintain the current game state independently of the renderer.
