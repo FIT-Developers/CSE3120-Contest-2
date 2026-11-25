@@ -82,3 +82,15 @@ These features may be implemented if time permits after the core game is functio
 - [ ] Procedurally generated levels
 - [ ] Power-ups
 - [ ] Final boss encounter
+
+## Proposed Controls
+
+| Input | Action |
+|---|---|
+| A / Left Arrow | Move left |
+| D / Right Arrow | Move right |
+| Space | Jump |
+| R | Restart level |
+| Esc | Exit game |
+
+Controls are subject to change.
