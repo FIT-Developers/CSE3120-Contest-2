@@ -1,0 +1,14 @@
+; Shared platformer constants
+
+SCREEN_WIDTH  EQU 80
+SCREEN_HEIGHT EQU 25
+
+START_X       EQU 2
+GROUND_Y      EQU 20
+
+MOVE_SPEED    EQU 1
+JUMP_SPEED    EQU -4
+GRAVITY       EQU 1
+
+START_HP      EQU 3
+FRAME_DELAY   EQU 50
