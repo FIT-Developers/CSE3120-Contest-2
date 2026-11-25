@@ -105,3 +105,18 @@ To comply with the Contest 2 grading requirements:
 - Procedures and non-obvious logic should be documented.
 - Backend and frontend changes should remain modular where possible.
 - Shared variables and procedure interfaces should be coordinated between developers.
+
+## Compilation & Execution
+
+**Development environment (planned):**
+
+- Microsoft Macro Assembler (MASM)
+- x86 (32-bit) Assembly
+- Irvine32 library
+- Windows
+
+Compilation and execution instructions will be added once the build system is established.
+
+## Current Status
+
+**Early development.** Features listed above represent planned functionality unless marked complete.
