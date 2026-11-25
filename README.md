@@ -63,3 +63,12 @@ The renderer will display backend game data without independently calculating ga
 - [ ] Implement collectibles and scoring
 - [ ] Implement level completion
 - [ ] Implement multiple levels
+
+### Phase 3 — Visuals & Integration
+
+- [ ] Create title screen
+- [ ] Create game renderer
+- [ ] Integrate backend and frontend
+- [ ] Display player health and score
+- [ ] Implement visual animations
+- [ ] Test complete gameplay
