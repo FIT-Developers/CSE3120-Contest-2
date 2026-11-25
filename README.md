@@ -72,3 +72,13 @@ The renderer will display backend game data without independently calculating ga
 - [ ] Display player health and score
 - [ ] Implement visual animations
 - [ ] Test complete gameplay
+
+### Optional Features
+
+These features may be implemented if time permits after the core game is functional.
+
+- [ ] Moving enemies
+- [ ] World map and level selection
+- [ ] Procedurally generated levels
+- [ ] Power-ups
+- [ ] Final boss encounter
