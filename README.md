@@ -24,3 +24,19 @@ The final game will use original branding and visual assets.
 - Level completion and progression
 - Game state management
 - Backend testing
+
+## Game Architecture
+
+The backend will maintain the current game state independently of the renderer.
+
+Each iteration of the game loop will:
+
+1. Read player input.
+2. Update player movement.
+3. Apply jumping and gravity.
+4. Check collisions and gameplay conditions.
+5. Update the game state.
+6. Render the current frame.
+7. Wait before beginning the next iteration.
+
+The renderer will display backend game data without independently calculating gameplay mechanics.
