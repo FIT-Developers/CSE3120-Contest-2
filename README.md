@@ -53,3 +53,13 @@ The renderer will display backend game data without independently calculating ga
 - [ ] Implement ground collision
 - [ ] Implement temporary debug rendering
 - [ ] Establish the main game loop
+
+### Phase 2 — Level Gameplay
+
+- [ ] Implement level layouts
+- [ ] Implement obstacles and platform collisions
+- [ ] Implement hazards
+- [ ] Implement player death and restarting
+- [ ] Implement collectibles and scoring
+- [ ] Implement level completion
+- [ ] Implement multiple levels
