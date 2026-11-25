@@ -15,11 +15,21 @@ INCLUDE game.inc
     score        DWORD 0
     currentLevel DWORD 1
     gameOver     BYTE 0
-    
+
 .code
 main PROC
     mov edx, OFFSET welcomeMsg
     call WriteString
+    call Crlf
+        ; Display player coordinates for debugging
+    mov eax, playerX
+    call WriteDec
+    mov al, ','
+    call WriteChar
+    mov al, ' '
+    call WriteChar
+    mov eax, playerY
+    call WriteDec
     call Crlf
     exit
 main ENDP
