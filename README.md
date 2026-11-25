@@ -120,3 +120,7 @@ Compilation and execution instructions will be added once the build system is es
 ## Current Status
 
 **Early development.** Features listed above represent planned functionality unless marked complete.
+
+## Disclaimer
+
+This is an independent educational project created for CSE3120. It is not affiliated with or endorsed by Nintendo. The current working title is temporary.
